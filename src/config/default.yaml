@@ -1,0 +1,13 @@
+app:
+  versionType: URI
+  host: 0.0.0.0
+  port:
+    http: 3000
+  clientToken:
+    clientId: <clientid>
+    clientSecret: <clientsecret>
+  client:
+    name: HulaHang
+    bankId: absa
+    accountNumber: 123456789
+  webhookUrl: https://play.svix.com/in/e_Uu4TWkUtndyIHpZFczp7qsuVIa6/
